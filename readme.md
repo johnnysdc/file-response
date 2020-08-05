@@ -29,3 +29,7 @@ Ainda falta implementar muitas coisas mas a prova de conceito está funcionando
 ### Realiza o build e executa o servidor 
 
 * `python .\manage.py runserver`
+
+### Diretório que falta ser criado com os arquivos de modelo
+
+* `src\files\analisadores\<tagName>\files.etc`
